@@ -158,3 +158,16 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.logo-img img {
+  max-height:50px;
+}
+.mascot-img img {
+  max-height: 200px;
+}
+.example-command {
+  font-style:italic;
+}
+body {
+  background-color: #5a885f;
+}
